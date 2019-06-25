@@ -1,4 +1,4 @@
-# Image-processing
+# Image-processing #Opencv #Resizing #ImageResize
 using opencv and other libraries to manipulate image data.
 
 
